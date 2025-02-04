@@ -1,0 +1,24 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore IDE files
+*.iml
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore operating system files
+.DS_Store
+
+# Ignore build folders
+/build/
+out/
+
+# Ignore temporary files created by the system
+*.swp
+*.swo
+
+# Ignore JAR files
+*.jar
